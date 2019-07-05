@@ -1,6 +1,10 @@
 # SalaryPredictionProject
 Salary Prediction Based on Job Descriptions
 
+**Author:**
+- Hieu Nguyen
+- hieu.t.nguyen.aug25@gmail.com
+
 **Project goal:** 
 - To predict salary using job description information
 
