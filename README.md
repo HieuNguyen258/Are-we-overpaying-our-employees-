@@ -7,8 +7,8 @@ Salary Prediction Based on Job Descriptions
 
 **Project goal:** 
 - To predict salary using job description information
-- The predicted salary can inform key decision makers when deciding on a prospective employee offer package. 
-- This predicted salary can also help with employee retention as company may lose their best employee to another employer who is willing to pay them more for the same job.
+- The predicted salary can inform key decision makers when deciding on a prospective employee offer package
+- This predicted salary can also help with employee retention as company may lose their best employee to another employer who is willing to pay them more for the same job
 
 **Data:**
 - train_features: A csv file containing the features from 1,000,000 job descriptions
