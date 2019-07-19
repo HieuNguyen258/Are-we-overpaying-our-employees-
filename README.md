@@ -38,7 +38,7 @@ Salary Prediction Based on Job Descriptions
     - Random Forest (MSE = 402)
     - Gradient Boosting (MSE = 357)
 - Part IV: Deploys
-  + Automated pipeline wheres the data is loaded, cleaned, trained under 5-fold cross-validation, and the best performing model is selected to predict salaries in the test dataset
+  + Automated pipeline where the data is loaded, cleaned, trained under 5-fold cross-validation, and the best performing model is selected to predict salaries in the test dataset
 
 **Results:**
 - model.txt: saved model, which performed best under 5-fold cross-validation with train data (MSE = 357)
