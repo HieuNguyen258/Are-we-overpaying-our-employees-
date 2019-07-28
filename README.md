@@ -1,4 +1,4 @@
-# SalaryPredictionProject
+# Are we overpaying our employees?
 Salary Prediction Based on Job Descriptions
 
 **Author:**
